@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there!
+### Welcome to my page ### 
+My name is leontev Pavel.\
+I am a beginner frontend developer.
 
+### I study and work with the following technologies:
+- HTML;
+- CSS;
+- Java Script
 <!--
 **LeontevPavel/LeontevPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
