@@ -3,7 +3,7 @@
 My name is leontev Pavel.\
 I am a beginner frontend developer.
 
-### I study and work with the following technologies:
+### I study and work with these technologies:
 - HTML  <img src="https://github.com/LeontevPavel/LeontevPavel/blob/main/html-5-svgrepo-com.svg" style="width: 20px; height: 20px;">;
 - CSS    <img src="https://github.com/LeontevPavel/LeontevPavel/blob/main/css-3-svgrepo-com.svg" style="width: 20px; height: 20px;">;
 - Java Script <img src="https://github.com/LeontevPavel/LeontevPavel/blob/main/js-svgrepo-com.svg" style="width: 20px; height: 20px;">;
