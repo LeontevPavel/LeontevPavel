@@ -1,5 +1,5 @@
 ## Hi there!
-### Welcome to my page ### 
+### Welcome to my page! ### 
 My name is leontev Pavel.\
 I am a beginner frontend developer.
 
